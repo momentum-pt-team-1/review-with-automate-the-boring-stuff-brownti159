@@ -158,7 +158,7 @@
 # 'Remember, remember, the fifth of November.'.split()
 # '-'.join('There can be only one.'.split()) 
 # answer:'Remember', ',', 'remember', ',', 'the', 'fifth', 'of', 'November'
-# There_can_be_only_one
+# 'There_', can_,'be_', 'only_', 'one'
 
 # 9. What string methods can you use to right-justify, left-justify, and center a string? 
 #  rjust(), ljust(), or center()
